@@ -1,3 +1,3 @@
-# fizzor.github.io
-fizzor.github.io
-https://fizzor96.github.io/fizzor.github.io/
+# Fizzor96.github.io
+
+Fizzor96.github.io
